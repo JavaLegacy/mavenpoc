@@ -1,0 +1,10 @@
+package br.com.pocjpa.config;
+
+public class StartJPA {
+	
+	public static void main(String[] args) {
+		
+	}
+	
+
+}
